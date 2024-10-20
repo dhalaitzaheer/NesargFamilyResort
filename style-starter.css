@@ -15104,13 +15104,13 @@ button.owl-next {
 
 .w3l-bottom-grids-6 .area-box.active,
 .w3l-bottom-grids-6 .area-box:hover {
-  background-image: url(/assets/images/food.jpg);
+  background-image: url(food.jpg);
   background-size: cover;
   color: #fff;
   transition: .3s;
 }
 .w3l-bottom-grids-6 .area-boxx:hover {
-  background-image: url(/assets/images/room.jpg);
+  background-image: url(room.jpg);
   background-size: cover;
   color: #fff;
   transition: .3s;
