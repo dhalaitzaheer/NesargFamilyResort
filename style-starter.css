@@ -14630,17 +14630,17 @@ p.title-para {
 }
 
 .w3l-main-slider .banner-top1 {
-  background: url(../images/banner2.jpg) no-repeat center;
+  background: url(banner2.jpg) no-repeat center;
   background-size: cover;
 }
 
 .w3l-main-slider .banner-top2 {
-  background: url(../images/banner3.jpg) no-repeat center;
+  background: url(banner3.jpg) no-repeat center;
   background-size: cover;
 }
 
 .w3l-main-slider .banner-top3 {
-  background: url(../images/banner4.jpg) no-repeat center;
+  background: url(banner4.jpg) no-repeat center;
   background-size: cover;
 }
 
@@ -15368,7 +15368,7 @@ span.fa.fa-cogs.active {
 }
 
 .w3l-quote-6 .quote-info {
-  background: url(../images/banner2.jpg) no-repeat center;
+  background: url(banner2.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -16049,7 +16049,7 @@ nav#breadcrumbs a {
 }
 
 .w3l-satisfied-main .satisfy-content {
-  background: url(../images/banner2.jpg) center;
+  background: url(banner2.jpg) center;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
