@@ -14620,7 +14620,7 @@ p.title-para {
 }
 
 .w3l-main-slider .banner-view {
-  background: url(../images/banner1.jpg) no-repeat center;
+  background: banner1.jpg no-repeat center;
   background-size: cover;
   min-height: 650px;
   position: relative;
